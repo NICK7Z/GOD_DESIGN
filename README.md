@@ -1,5 +1,5 @@
 # GOD_DESIGN
-<h2>God design is a website where you can input your everyday life concerns and it will return a god for you</h2>
+<h2>God design is a website where you can input your everyday life concerns and it will return a specific god according to your problem for you</h2>
 
 <h3>Tech Flow and Problems</h3>
 <p>
