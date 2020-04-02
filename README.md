@@ -3,4 +3,10 @@
 
 <h3>Tech Flow and Problems</h3>
 <p><ol>1.Input the concern text
-  <ul><li>parse the text to get a noun word as the keyword</li><li>or analyze the text using a python script that I already have</li></ul></ol></p>
+  <ul><li>parse the text to get a noun word as the keyword</li><li>or analyze the text using a python script that I already have</li></ul></ol>
+  
+  <ol>2.Send the text</ol>
+  
+  
+  
+  </p>
