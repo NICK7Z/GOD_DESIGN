@@ -5,7 +5,7 @@
 <p><ol><li>Input the concern text
   <ul><li>parse the text to get a noun word as the keyword</li><li>or analyze the text using a python script that I already have</li></ul></li>
   
-  
+  <li>Send  the .noun keyword to Runway to generate a text to put together with the god card</li>
   
   
   </ol>
