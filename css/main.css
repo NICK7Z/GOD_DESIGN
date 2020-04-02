@@ -1,0 +1,27 @@
+body{
+background:white;
+}
+
+.welcome{
+    padding-top: 5%;
+    text-align:center;
+   
+}
+
+.inputText{
+text-align: center;
+}
+
+.searchButton{
+text-align: center;
+}
+
+.searchButton:active{
+
+    position: relative;
+    top: 2px;
+    
+}
+
+
+
